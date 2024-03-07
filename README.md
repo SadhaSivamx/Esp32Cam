@@ -17,3 +17,5 @@ Code for Capture,Save and Send the file from Sdcard to a local server with Esp32
 ### Webserver
 
 Code for Capturing and streaming the images to the local server with Esp32
+
+![Output](https://github.com/SadhaSivamx/ReWirelessCapsule/assets/106687593/fe1c1ca1-077b-4a9f-bb18-7b1752fa5ecd)
