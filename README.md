@@ -3,4 +3,4 @@ Code repository for a research-based project aimed at making wireless endoscopy 
 ### CapSave 
 Code for capturing and saving the ESP32 footage to the SD card.
 
-![Out](https://github.com/SadhaSivamx/ReWirelessCapsule/assets/106687593/14a72dbb-be34-4dce-b68d-d8862f38ab48)
+![Output](https://github.com/SadhaSivamx/ReWirelessCapsule/assets/106687593/cc8a5930-56eb-4a2f-b6c3-f78aa3e37fe2)
