@@ -54,7 +54,7 @@ void setup() {
   if(psramFound())
   {
     //Frame Size
-    config.frame_size = FRAMESIZE_UXGA; 
+    config.frame_size = FRAMESIZE_VGA; 
     config.jpeg_quality = 10;
     config.fb_count = 2;
   } 
@@ -123,7 +123,7 @@ void CapSave()
     Serial.println("Failed to open file for reading");
     return;
   }
-
+  delay(500);
   size_t fileSize = savedFile.size();
   uint8_t *buffer = (uint8_t *)malloc(fileSize);
   if (!buffer) {
