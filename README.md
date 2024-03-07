@@ -10,7 +10,7 @@ Code for capturing and saving the ESP32 footage to the SD card.
 
 ### CapSend 
 
-Code for Capture,Save and Send the file from Sdcard to a local server with Esp32
+Code for Capture, Save and Send the file from Sdcard to a local server with Esp32
 
 ![Output](https://github.com/SadhaSivamx/ReWirelessCapsule/assets/106687593/fb8f5620-fb56-4816-9441-80f5eb48940b)
 
@@ -18,4 +18,10 @@ Code for Capture,Save and Send the file from Sdcard to a local server with Esp32
 
 Code for Capturing and streaming the images to the local server with Esp32
 
-![Output](https://github.com/SadhaSivamx/ReWirelessCapsule/assets/106687593/fe1c1ca1-077b-4a9f-bb18-7b1752fa5ecd)
+![Output](https://github.com/SadhaSivamx/ReWirelessCapsule/assets/106687593/dd792cfc-3196-40dd-a097-c5a11326ab9e)
+
+### FtpServer
+
+This Bypasses the Saving and Retrieving Part
+
+![Output](https://github.com/SadhaSivamx/ReWirelessCapsule/assets/106687593/b9337257-68d9-4ccc-a0d5-6d214ddb8ccc)
